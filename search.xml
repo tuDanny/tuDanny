@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2018%2F12%2F27%2Ftest-1%2F</url>
-    <content type="text"></content>
+    <title><![CDATA[first]]></title>
+    <url>%2F2018%2F12%2F27%2Ffirst%2F</url>
+    <content type="text"><![CDATA[下面这个符号是摘要的终止符，在前面的能显示；在后面的不能显示。]]></content>
+      <tags>
+        <tag>wo</tag>
+      </tags>
   </entry>
   <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2018%2F12%2F27%2Ftest%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F12%2F26%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[hello tuDanny]]></content>
+    <title><![CDATA[helloworld]]></title>
+    <url>%2F2018%2F12%2F27%2Fhelloworld%2F</url>
+    <content type="text"><![CDATA[Hi I’m DannyTu]]></content>
+      <tags>
+        <tag>me</tag>
+      </tags>
   </entry>
 </search>
